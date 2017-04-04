@@ -1,0 +1,2 @@
+# mkcscope
+cscope script file.
